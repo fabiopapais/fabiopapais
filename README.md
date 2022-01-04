@@ -1,7 +1,7 @@
 ## Fábio Papais
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabiopapais@hotmail.com)](mailto:fabiopapais@hotmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&labelColor=2867B2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/f%C3%A1bio-papais/)](https://www.linkedin.com/in/f%C3%A1bio-papais/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&labelColor=2867B2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiopapais)](https://www.linkedin.com/in/fabiopapais)
 ![View Counter](https://komarev.com/ghpvc/?username=fabiopapais&style=flat-square)
 
 - Passionate about **technology and innovation**, currently co-leading IFPE Open Source community, supported by [Hack Club](https://hackclub.com/).
