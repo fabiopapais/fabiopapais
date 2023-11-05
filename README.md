@@ -5,9 +5,9 @@
 ![View Counter](https://komarev.com/ghpvc/?username=fabiopapais&style=flat-square)
 
 - Passionate about **technology and innovation**, currently co-leading [IFPE Open Source](https://github.com/ifpeopensource) community, supported by [Hack Club](https://hackclub.com/).
-- **Eletronics student** at [Instituto Federal de Pernambuco (IFPE)](https://www.ifpe.edu.br/). 
-- **Researcher student** at [GPSERS](https://github.com/gpsers-dexter), working with **computer vision software**.
-- Learning **C/C++, Python and Typescript** (Node, React and NextJs).
+- **Computer Science student** at [CIn - UFPE](https://portal.cin.ufpe.br/)
+- **Tech Intern** at [Globo Pernambuco](https://somos.globo.com/)
+- Learning **CS Fundamentals and Data Science**.
 
 <details>
 <summary>Statistics</summary>
