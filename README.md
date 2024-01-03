@@ -6,7 +6,6 @@
 
 - Passionate about **technology and innovation**, currently co-leading [IFPE Open Source](https://github.com/ifpeopensource) community, supported by [Hack Club](https://hackclub.com/).
 - **Computer Science student** at [CIn - UFPE](https://portal.cin.ufpe.br/)
-- **Tech Intern** at [Globo Pernambuco](https://somos.globo.com/)
 - Learning **CS Fundamentals and Data Science**.
 
 <details>
