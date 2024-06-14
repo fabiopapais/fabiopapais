@@ -4,9 +4,10 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&labelColor=2867B2&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fabiopapais)](https://www.linkedin.com/in/fabiopapais)
 ![View Counter](https://komarev.com/ghpvc/?username=fabiopapais&style=flat-square)
 
-- Passionate about **technology and innovation**, currently co-leading [IFPE Open Source](https://github.com/ifpeopensource) community, supported by [Hack Club](https://hackclub.com/).
+- Passionate about **technology and innovation**, currently researching Computer Vision for skin cancer detection at [Lux.AI](https://luxai.cin.ufpe.br/).
 - **Computer Science student** at [CIn - UFPE](https://portal.cin.ufpe.br/)
-- Learning **CS Fundamentals and Data Science**.
+- Advisor at [IFPE Open Source](https://github.com/ifpeopensource) community, supported by [Hack Club](https://hackclub.com/).
+- Learning **CS Fundamentals and Computer Vision**.
 
 <details>
 <summary>Statistics</summary>
